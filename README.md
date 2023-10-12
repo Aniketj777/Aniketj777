@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Jadhav</h1>
 <h3 align="center">📊 Data Analyst | 🧬 Data Scientist | 📈 Business Analyst</h3>
 <img align="right" alt="coding" width="400" src= "https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=82a1493bumyhx82hz4gi30l87d0zvqd2ryxxpwncsxkejvb0&ep=v1_gifs_related&rid=200w.gif&ct=g">
-- 👨‍💻 All of my projects are available at [https://github.com/Aniketj777](https://github.com/Aniketj777)
+- 👨‍💻 All of my projects are available at
+https://github.com/Aniketj777
 
 - ⚡ Fun fact **I am funny**
 
